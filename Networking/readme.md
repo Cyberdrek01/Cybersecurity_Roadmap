@@ -14,7 +14,7 @@
   3. IDS/IPS
   4. VPN and Remote access
 
-## PHASE 3 — Packet & Log Analysis-
+## PHASE 3 : Packet & Log Analysis-
   1. Wireshark
   2. Siem Concept
   3. Log reading skills
