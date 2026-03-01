@@ -1,7 +1,7 @@
 # This folder contains the basic of networking: 
 
 ## Phase 1 : Core networking-
-  1. OSI model
+  1. <a href="url">OSI model</a>
   2. TCP IP model
   3. Ports and Protocols
   4. DNS
