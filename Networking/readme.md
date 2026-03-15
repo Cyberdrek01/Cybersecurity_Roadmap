@@ -8,7 +8,7 @@
   5. DHCP
   6. ARP
 
-## Phase 2 : Securoty Networking-
+## Phase 2 : Security Networking-
   1. Network attacks one must recognize
   2. Firewalls
   3. IDS/IPS
