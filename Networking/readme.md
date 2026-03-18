@@ -4,7 +4,7 @@
   1. <a href="OSI_model.md">OSI model</a>
   2. TCP IP model
   3. Ports and Protocols
-  4. DNS
+  4. <a href="dns.md">DNS</a>
   5. DHCP
   6. ARP
 
