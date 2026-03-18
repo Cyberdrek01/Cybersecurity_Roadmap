@@ -2,32 +2,21 @@
 Hyper Text Transfer Protocol and S for security (SSL encryption) is a common protocol for sending data between a web browser and a website. We should use HTTPS because it ensures that the data is encrypted for added security.
 
 ## Working of HTTPS
-Step 1: Client Hello
 
-Browser says: “Let’s start secure communication”
-
-Step 2: Server sends Certificate
-
-Contains:
-
-Public key
-
-Domain name
-
-Signed by trusted authority
-
-Step 3: Verification
-
-Browser checks certificate validity
-
-Step 4: Key Exchange
-
-Secure session key is created
-
-Step 5: Encrypted Communication
-
-All data now encrypted
-
+Step1: Client Hello.
+* Browser says: “Let’s start secure communication”
+Step 2: Server sends Certificate.
+* Contains:
+  * Public key.
+  * Doman Name.
+  * Signed by trusted authority.
+Step 3: Verification.
+* Browser checks validity.
+Step 4: Key Exchange.
+* Secure session key is created.
+Step 5: Encrypted Communication.
+* All data now encrypted.
+ 
 ## Why HTTPS Matters and What Happens Without It?
 HTTPS is important because it keeps the information on websites safe from being easily viewed or stolen by anyone who might be spying on the network.
 When a website uses regular HTTP, data is sent in small chunks called packets that can easily be intercepted using free software.
