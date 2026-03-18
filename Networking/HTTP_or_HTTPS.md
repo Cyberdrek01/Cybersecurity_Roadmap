@@ -5,15 +5,19 @@ Hyper Text Transfer Protocol and S for security (SSL encryption) is a common pro
 
 Step1: Client Hello.
 * Browser says: “Let’s start secure communication”
+
 Step 2: Server sends Certificate.
 * Contains:
   * Public key.
   * Doman Name.
   * Signed by trusted authority.
+
 Step 3: Verification.
 * Browser checks validity.
+  
 Step 4: Key Exchange.
 * Secure session key is created.
+
 Step 5: Encrypted Communication.
 * All data now encrypted.
  
