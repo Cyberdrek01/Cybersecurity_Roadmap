@@ -13,9 +13,6 @@ It serves three purposes:
 - **Portfolio** — proof of consistent learning for potential employers
 - **Community** — anyone else learning cybersecurity can use these notes freely
 
-**Started:** March 2026
-**Goal:** Entry-level cybersecurity internship or job by July 2026
-**Daily Commitment:** 1.5–2 hours weekdays + extra on weekends
 **Current Status:** 🟢 Actively updated — new content added regularly
 
 ---
