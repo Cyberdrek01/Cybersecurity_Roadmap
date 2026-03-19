@@ -20,6 +20,11 @@ how small the progress is on a given day.
 
 **Current Status:** 🟢 Actively updated — new content added regularly
 
+> **📝 A note on content:** Some notes and explanations in this repository
+> are AI-assisted — used as a tool to structure, format, and improve the
+> clarity of what I have personally learned. All concepts have been studied,
+> understood, and verified by me. The learning is real — AI just helps me
+> document it better.
 ---
 
 ## ⚠️ Repository Update Policy
@@ -198,4 +203,4 @@ If you are also on a cybersecurity learning journey, feel free to:
 
 *This repository is actively maintained and updated daily.*
 *New topics, practicals, writeups, and tools are added as I progress through my learning journey.*
-*Last updated: March 2026*
+*Last updated: regularly — check commit history for latest changes*
