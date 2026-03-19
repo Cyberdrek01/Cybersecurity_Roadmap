@@ -73,7 +73,7 @@ Topics covered:
 - TCP vs UDP — Three-Way Handshake, TCP flags, SYN Flood attack
 - Q&A Revision Sheet — 42 interview-style questions with model answers
 
-📂 [Go to Networking →](./networking/)
+📂 [Go to Networking →](./Networking/)
 
 ---
 
