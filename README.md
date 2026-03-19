@@ -13,6 +13,11 @@ It serves three purposes:
 - **Portfolio** — proof of consistent learning for potential employers
 - **Community** — anyone else learning cybersecurity can use these notes freely
 
+This repository is also my way of keeping myself accountable and motivated
+to learn consistently every single day. Making my progress public pushes me
+to show up daily, document what I learn, and keep moving forward — no matter
+how small the progress is on a given day.
+
 **Current Status:** 🟢 Actively updated — new content added regularly
 
 ---
@@ -182,8 +187,13 @@ Will contain common cybersecurity interview questions with model answers, coveri
 If you are also on a cybersecurity learning journey, feel free to:
 - ⭐ Star this repository to follow my progress
 - 🐛 Open an issue if you spot an error in the notes
-- 💬 Connect with me on LinkedIn
+- 💡 Any suggestions, guidance, or advice are always welcome — I am a beginner
+  and would love to hear from people with more experience in the field
 
+📧 **Email:** manasjyotiboro09@gmail.com
+💼 **LinkedIn:** [Manas Jyoti Boro](https://www.linkedin.com/in/manas-jyoti-boro/)
+
+> *"Every expert was once a beginner. This repository is proof that I showed up today."*
 ---
 
 *This repository is actively maintained and updated daily.*
