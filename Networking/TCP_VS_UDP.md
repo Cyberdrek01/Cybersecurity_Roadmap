@@ -8,6 +8,13 @@ TCP is a reliable, connection-oriented transport protocol that ensures accurate 
 * Connection-oriented protocol
 * Reliable and ordered data delivery
 * Higher overhead but high accuracy
+# TCP: Three way handshake
+The TCP 3-way handshake is a three-step process used in TCP/IP networks to establish a reliable, connection-oriented session between a client and a server before data transmission
+
+The 3-Way Handshake Steps
+* SYN (Synchronize): The client initiates the connection by sending a TCP packet with the SYN flag set to the server, indicating a desire to start a conversation and providing an initial sequence number (ISN).
+* SYN-ACK (Synchronize-Acknowledgment): The server receives the SYN, reserves resources, and responds with a packet that has both the SYN and ACK flags set. This acknowledges the client's SYN and sends the server's own ISN.
+* ACK (Acknowledgment): The client sends a final acknowledgement (ACK) packet back to the server to confirm the connection is established.
 
 # User Datagram Protocol (UDP)
 UDP is a fast, connectionless transport protocol that sends data without reliability guarantees. It is efficient for applications where speed is more important than accuracy.
