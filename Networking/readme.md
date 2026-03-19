@@ -8,13 +8,13 @@
 
 | File | What it covers |
 |---|---|
+| [`OSI_model.md`](./OSI_model.md) | All 7 OSI layers, protocols per layer, security relevance |
 | [`switches.md`](./switches.md) | How switches work, MAC address tables, MAC Flooding, MAC Spoofing |
 | [`routers.md`](./routers.md) | Routing, NAT, routing tables, how packets travel across the internet |
 | [`dns.md`](./dns.md) | DNS resolution chain, record types, DNS Spoofing, Cache Poisoning |
 | [`firewall.md`](./firewall.md) | Firewall types, stateful vs stateless, whitelist vs blacklist, C2 bypass |
 | [`HTTP_or_HTTPS.md`](./HTTP_or_HTTPS.md) | HTTP request/response cycle, status codes, MITM, Session Hijacking |
 | [`TCP_VS_UDP.md`](./TCP_VS_UDP.md) | TCP vs UDP, Three-Way Handshake, SYN Flood attack |
-| [`OSI_model.md`](./OSI_model.md) | All 7 OSI layers, protocols per layer, security relevance |
 | [`Questions_on_networking.md`](./Questions_on_networking.md) | 42 interview-style Q&A with model answers across all topics |
 
 ---
