@@ -1,6 +1,5 @@
 # 🛡️ Cybersecurity Roadmap
 
-> **B.Tech Information Technology (3rd Year) → Entry-Level Cybersecurity Job / Internship**
 > This repository documents my complete cybersecurity learning journey from absolute beginner to job-ready. It is updated daily as I learn new topics, complete labs, solve CTF challenges, and build hands-on projects.
 
 ---
@@ -33,7 +32,7 @@ It serves three purposes:
 ## 📂 Repository Structure
 
 ```
-cybersecurity-roadmap/
+cybersecurity_roadmap/
 │
 ├── 📁 networking/               ✅ Theory Complete — Practicals Coming Soon
 │   ├── README.md
