@@ -69,4 +69,4 @@ The `Questions_on_networking.md` file is a standalone revision sheet — it cont
 
 ---
 
-*Part of my [cybersecurity-roadmap](../README.md) repository*
+*Part of my [cybersecurity_roadmap](../README.md) repository*
