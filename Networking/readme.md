@@ -9,10 +9,10 @@
 | File | What it covers |
 |---|---|
 | [`OSI_model.md`](./OSI_model.md) | All 7 OSI layers, protocols per layer, security relevance |
-| [`switches.md`](./switches.md) | How switches work, MAC address tables, MAC Flooding, MAC Spoofing |
-| [`routers.md`](./routers.md) | Routing, NAT, routing tables, how packets travel across the internet |
-| [`dns.md`](./dns.md) | DNS resolution chain, record types, DNS Spoofing, Cache Poisoning |
-| [`firewall.md`](./firewall.md) | Firewall types, stateful vs stateless, whitelist vs blacklist, C2 bypass |
+| [`switches.md`](./Switches.md) | How switches work, MAC address tables, MAC Flooding, MAC Spoofing |
+| [`routers.md`](./Routers.md) | Routing, NAT, routing tables, how packets travel across the internet |
+| [`dns.md`](./DNS.md) | DNS resolution chain, record types, DNS Spoofing, Cache Poisoning |
+| [`firewall.md`](./Firewall.md) | Firewall types, stateful vs stateless, whitelist vs blacklist, C2 bypass |
 | [`HTTP_or_HTTPS.md`](./HTTP_or_HTTPS.md) | HTTP request/response cycle, status codes, MITM, Session Hijacking |
 | [`TCP_VS_UDP.md`](./TCP_VS_UDP.md) | TCP vs UDP, Three-Way Handshake, SYN Flood attack |
 | [`Questions_on_networking.md`](./Questions_on_networking.md) | 42 interview-style Q&A with model answers across all topics |
@@ -55,17 +55,6 @@ The `Questions_on_networking.md` file is a standalone revision sheet — it cont
 | **Nmap** | Port scanning and service discovery |
 | **Macof** | MAC Flooding attack tool |
 | **Ettercap** | MITM attacks and session hijacking |
-
----
-
-## 📚 Resources Used
-
-| Resource | Link |
-|---|---|
-| NetworkChuck | [youtube.com/@NetworkChuck](https://youtube.com/@NetworkChuck) |
-| Professor Messer | [professormesser.com](https://professormesser.com) |
-| TryHackMe | [tryhackme.com](https://tryhackme.com) |
-| OverTheWire: Bandit | [overthewire.org/wargames/bandit](https://overthewire.org/wargames/bandit) |
 
 ---
 
