@@ -64,8 +64,8 @@ Level 33 → 34   🔒
 | [Level 08 → 09](./Level_08.md) | Finding unique lines | ✅ |
 | [Level 09 → 10](./Level_09.md) | Strings in binary files | ✅ |
 | [Level 10 → 11](./Level_10.md) | Base64 decoding | ✅ |
-| [Level 11 → 12](./Level_11.md) | ROT13 cipher | ✅ |
-| [Level 12 → 13](./Level_12.md) | Hex dump and compression | ✅ |
+| [Level 11 → 12](./Level_11.md) | Hex dump and compression | ✅ |
+| [Level 12 → 13](./Level_12.md) | ROT13 cipher  | ✅ |
 | [Level 13 → 14](./Level_13.md) | SSH private keys | ✅ |
 | [Level 14 → 15](./Level_14.md) | Connecting to local ports | ✅ |
 | Level 15 → 16 | SSL/TLS connections | ⏳ |
