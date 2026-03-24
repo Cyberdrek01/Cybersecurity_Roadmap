@@ -39,8 +39,9 @@ Level 11 → 12   ✅
 Level 12 → 13   ✅
 Level 13 → 14   ✅
 Level 14 → 15   ✅
-Level 15 → 16   ⏳
-Level 16 → 17   ⏳
+Level 15 → 16   ✅
+Level 16 → 17   ✅
+Level 17 → 18   ✅
 ...
 Level 33 → 34   🔒
 ```
@@ -68,9 +69,9 @@ Level 33 → 34   🔒
 | [Level 12 → 13](./Level_12.md) | ROT13 cipher  | ✅ |
 | [Level 13 → 14](./Level_13.md) | SSH private keys | ✅ |
 | [Level 14 → 15](./Level_14.md) | Connecting to local ports | ✅ |
-| Level 15 → 16 | SSL/TLS connections | ⏳ |
-| Level 16 → 17 | Port scanning with Nmap | ⏳ |
-
+| [Level 15 → 16](./Level_15.md) | SSL/TLS connections | ✅ |
+| [Level 16 → 17](./Level_16.md) | Port scanning with Nmap | ✅ |
+| [Level 17 → 18](./Level_17.md) | File comparison using diff | ✅ |
 ---
 
 ## 💡 How to Connect to Bandit
