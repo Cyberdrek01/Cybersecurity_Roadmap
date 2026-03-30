@@ -32,8 +32,8 @@ SOC Analyst is the most hired entry-level cybersecurity role — especially in I
 |---|---|---|---|
 | Junior Security Analyst Intro | TryHackMe | SOC workflow simulation, IP triage | ✅ Complete |
 | SOC Role in Blue Team | TryHackMe | SOC roles, career path, team structure | ✅ Complete |
-| Intro to SIEM | TryHackMe | SIEM concepts, log sources, use cases | ✅ Complete |
-| Splunk Basics | TryHackMe | Splunk queries, dashboards, searching | ⏳ Upcoming |
+| Intro to SIEM | TryHackMe & Splunk official | SIEM concepts, log sources, use cases | ✅ Complete |
+| Splunk Basics | TryHackMe & Splunk official | Splunk queries, dashboards, searching | ✅ Complete |
 | Investigating with Splunk | TryHackMe | Real investigation using Splunk | ⏳ Upcoming |
 | Phishing Analysis Fundamentals | TryHackMe | Phishing email analysis | ⏳ Upcoming |
 | Blue Team Labs Online | BTLO | Hands-on defensive challenges | ⏳ Upcoming |
