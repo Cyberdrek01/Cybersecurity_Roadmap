@@ -18,10 +18,10 @@ SOC Analyst is the most hired entry-level cybersecurity role — especially in I
 | [`SIEM_Fundamentals.md`](./SIEM_Fundamentals.md) | What is SIEM, how it works, log sources, use cases | ✅ Complete |
 | [`What_is_Splunk.md`](./What_is_Splunk.md) | Splunk architecture, components, web interface, SOC use cases | ✅ Complete |
 | [`Splunk_Basics.md`](./Splunk_Basics.md) | Splunk queries, dashboards, searching | ✅ Complete |
+| [`Phishing_Analysis.md`](./Phishing_Analysis.md) | Email header analysis, phishing indicators | ✅ Complete |
 | [`Threat_Intelligence.md`](./Threat_Intelligence.md) | IOCs, AbuseIPDB, Cisco Talos, threat feeds | 🔄 In Progress |
 | [`Alert_Triage.md`](./Alert_Triage.md) | Triage process, false positives, escalation | 🔒 Coming Soon |
 | [`Incident_Response.md`](./Incident_Response.md) | IR lifecycle, containment, eradication, recovery | 🔒 Coming Soon |
-| [`Phishing_Analysis.md`](./Phishing_Analysis.md) | Email header analysis, phishing indicators | 🔒 Coming Soon |
 | [`Log_Analysis.md`](./Log_Analysis.md) | Windows logs, Linux logs, network logs | 🔒 Coming Soon |
 | [`Questions_on_SOC.md`](./Questions_on_SOC.md) | Interview Q&A revision sheet | 🔒 Coming Soon |
 
